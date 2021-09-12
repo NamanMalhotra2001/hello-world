@@ -4,4 +4,4 @@ JAR
 Learning Git!
 
 ## Subheader
-wathcing tutorial
+watching tutorial
